@@ -5,14 +5,18 @@ This is a basic movie management program that runs on a console. Registration, l
 Basic Features
 
 Authentication and user registration,
+
 Flexibility over movies (add, view, search, rate),
+
 Best-rated movies,
+
 Personalized selections for movies.
 
 
 Programming Languages used
 
 used a NoSQL database to store movie data, 
+
 use AWS S3 bucket to store images of movie covers.
 
 
