@@ -26,7 +26,7 @@ Personalized selections for movies.
 
 Programming Languages used
 
-used a NoSQL database to store movie data, 
+used MySQL database to store movie data, 
 
 use AWS S3 bucket to store images of movie covers.
 
