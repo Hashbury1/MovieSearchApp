@@ -4,26 +4,32 @@ This is a basic movie management program that runs on a console. Registration, l
 
 Basic Features
 
-Authentication and user registration
-Flexibility over movies (add, view, search, rate)
-Best-rated movies
-Personalized selections for movies
+Authentication and user registration,
+Flexibility over movies (add, view, search, rate),
+Best-rated movies,
+Personalized selections for movies.
 
 
 Programming Languages used
 
-used a NoSQL database to store movie data 
-use AWS S3 bucket to store images of movies covers.
+used a NoSQL database to store movie data, 
+use AWS S3 bucket to store images of movie covers.
 
 
 
 Tools used for the project
 
-Terraform (IaC)
-cloud Provider (AWS)
-CI/CD tools 
-GitHub Actions
-Git 
+
+Terraform (IaC),
+
+cloud Provider (AWS),
+
+CI/CD tools,
+
+GitHub Actions,
+
+Git,
+
 VS code
 
 
