@@ -23,8 +23,7 @@ Personalized selections for movies.
 
 
 
-
-Programming Languages used
+tech tools used 
 
 used MySQL database to store movie data, 
 
